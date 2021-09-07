@@ -1,0 +1,17 @@
+.escondido {
+    display: none;
+}
+
+.tabela {
+    border: 2px solid black;
+    margin-top: 20px;
+}
+
+.linha {
+    background-color: cornflowerblue;
+}
+
+.coluna {
+    padding: 10px;
+    border: 1px solid;
+}
